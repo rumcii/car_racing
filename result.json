@@ -1,0 +1,23 @@
+{
+    "random race": {
+        "ruci": 6,
+        "tsekach": 0,
+        "ciki": 8,
+        "vesela": 0,
+        "tsetsko": 4
+    },
+    "hohoho": {
+        "ruci": 12,
+        "tsekach": 4,
+        "ciki": 6,
+        "vesela": 6,
+        "tsetsko": 8
+    },
+    "test": {
+        "ruci": 12,
+        "tsekach": 4,
+        "ciki": 24,
+        "vesela": 32,
+        "tsetsko": 18
+    }
+}
