@@ -1,4 +1,4 @@
-from exceptions import NameAlreadyExsistsError
+from my_exceptions import NameAlreadyExsistsError
 
 
 class Driver:

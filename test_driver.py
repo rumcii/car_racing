@@ -7,9 +7,9 @@ from driver import Driver
 class TestDriver(unittest.TestCase):
 
     def setUp(self):
+        Driver.nickname_list = []
         self.car = Car("opel", "astra", 160)
         self.driver = Driver("Rumen", "ruci1", self.car)
-        Driver.nickname_list = []
 
     def test_driver_equals(self):
         other_driver = Driver("Rumen", "ruci", self.car)
@@ -20,3 +20,6 @@ class TestDriver(unittest.TestCase):
 
     def test_driver_instance(self):
         self.assertTrue(isinstance(self.driver, Driver))
+
+if __name__ =='__main__':
+    unittest.main()

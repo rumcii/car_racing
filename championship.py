@@ -12,6 +12,7 @@ class Championship:
             self.race.start_race()
             print("Race #{}".format(race_count))
             print("###### START ######")
+            print(self.race.result)
 
             for racer in self.race.result[self.name]:
                 print("{}: {}".format(racer,

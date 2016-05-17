@@ -1,23 +1,44 @@
 {
     "random race": {
         "ruci": 6,
-        "tsekach": 0,
-        "ciki": 8,
         "vesela": 0,
-        "tsetsko": 4
+        "tsetsko": 4,
+        "ciki": 8,
+        "tsekach": 0
+    },
+    "test": {
+        "ruci": 8,
+        "vesela": 4,
+        "tsetsko": 0,
+        "ciki": 0,
+        "tsekach": 6
+    },
+    "race1": {
+        "ruci": 4,
+        "vesela": 8,
+        "tsetsko": 0,
+        "ciki": 6,
+        "tsekach": 0
     },
     "hohoho": {
         "ruci": 12,
-        "tsekach": 4,
-        "ciki": 6,
         "vesela": 6,
-        "tsetsko": 8
+        "tsetsko": 8,
+        "ciki": 6,
+        "tsekach": 4
     },
-    "test": {
-        "ruci": 12,
-        "tsekach": 4,
-        "ciki": 24,
-        "vesela": 32,
-        "tsetsko": 18
+    "hohoh": {
+        "ruci": 4,
+        "vesela": 0,
+        "tsetsko": 8,
+        "ciki": 6,
+        "tsekach": 0
+    },
+    "first_race": {
+        "ruci": 6,
+        "vesela": 4,
+        "tsetsko": 0,
+        "ciki": 0,
+        "tsekach": 8
     }
 }
